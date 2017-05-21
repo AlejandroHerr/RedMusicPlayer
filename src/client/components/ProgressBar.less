@@ -1,0 +1,21 @@
+@import "../styles/Variables";
+
+.progressbar {
+  display: block !important;
+  margin: 0 auto;
+  overflow: hidden;
+  padding-top: 4px;
+  > .bar {
+    background: none repeat scroll 0 0 #CED3D7;
+    cursor: pointer;
+    height: 20px;
+    overflow: hidden;
+    width: 100% !important;
+    > .progress {
+      background: none repeat scroll 0 0 #ccc;
+      height: 20px;
+      position: relative;
+      width: 0;
+    }
+  }
+}

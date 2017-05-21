@@ -1,0 +1,9 @@
+export const MPD_STATUS = 'MPD_STATUS';
+export const MPD_TOGGLE_PAUSE = 'MPD_TOGGLE_PAUSE';
+export const MPD_PLAY = 'MPD_PLAY';
+export const MPD_STOP = 'MPD_STOP';
+export const MPD_SEEK = 'MPD_SEEK';
+export const MPD_PREVIOUS = 'MPD_PREVIOUS';
+export const MPD_NEXT = 'MPD_NEXT';
+export const MPD_UPDATE_PLAYBACK = 'MPD_UPDATE_PLAYBACK';
+export const MPD_SETVOL = 'MPD_SETVOL';

@@ -1,0 +1,9 @@
+{
+  "sourceBase":"src/client",
+  "testBase":"",
+  "smartPath":"containers",
+  "dumbPath":"components",
+  "brainPath":"reducers",
+  "layoutPath":"layouts",
+  "fileCasing":""
+}
